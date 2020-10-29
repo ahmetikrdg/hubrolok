@@ -1,0 +1,9 @@
+﻿
+@model List<NCategory>
+@foreach (var item in Model)
+{
+<li>
+    <a asp-controller="Home"
+       asp-action="NewsList"
+       asp-route-categories="@item.Url" class="@(ViewBag.SelectedCategory == item.Url?"active":"")"><img src="@item.Image" alt=""> @item.Tittle</a>
+</li>}

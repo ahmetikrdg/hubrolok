@@ -1,0 +1,122 @@
+﻿
+@model NCategoryModel
+
+@{ Layout = "_LayoutAdmin"; }
+
+<!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+<!-- preloader area start -->
+<div id="preloader">
+    <div class="loader"></div>
+</div>
+<!-- preloader area end -->
+<!-- page container area start -->
+<div class="page-container">
+    <!-- sidebar menu area start -->
+    @await Html.PartialAsync("_AdminMenu")
+    <!-- sidebar menu area end -->
+    <!-- main content area start -->
+    <div class="main-content">
+        <!-- header area start -->
+        <div class="header-area">
+            <div class="row align-items-center">
+                <!-- nav and search button -->
+                <div class="col-md-6 col-sm-8 clearfix menu-mobil">
+                    <div class="nav-btn pull-left">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+                <!-- profile info & task notification -->
+                <div class="col-md-6 col-sm-4 clearfix menu-mobil">
+                    <ul class="notification-area pull-right">
+                        <li id="full-view"><i class="ti-fullscreen"></i></li>
+                        <li id="full-view-exit"><i class="ti-zoom-out"></i></li>
+                        <li class="dropdown">
+                            <i class="ti-settings dropdown-toggle" data-toggle="dropdown"></i>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="#">Profil</a>
+                                <a class="dropdown-item" href="#">Roller</a>
+                                <a class="dropdown-item" href="#">Çıkış Yap</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- header area end -->
+        <!-- page title area start -->
+        <div class="page-title-area" style="margin-top: 20px;background-color: #F3F8FB">
+            <div class="row align-items-center">
+                <div class="col-sm-6">
+                    <div class="breadcrumbs-area clearfix">
+                        <h4 class="page-title pull-left">Dashboard</h4>
+                        <ul class="breadcrumbs pull-left">
+                            <li><a href="anasayfa.html">Anasayfa</a></li>
+                            <li><span>Haber Kategori Ekle</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- page title area end -->
+        <div class="main-content-inner">
+            <form asp-controller="Admin" asp-action="NewsCategoryCreateAdmin" method="post" enctype="multipart/form-data">
+
+                <div class="row">
+                    <div class="col-lg-6 col-ml-12">
+                        <div class="row">
+                            <!-- Textual inputs start -->
+                            <div class="col-12 mt-5">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4 class="header-title">Genel Bilgiler</h4>
+                                        <div class="form-group">
+                                            <label asp-for="Tittle" for="example-text-input" class="col-form-label">Kategori Ekle</label>
+                                            <input asp-for="Tittle" class="form-control" type="text" placeholder="Kategori adı giriniz." id="example-text-input">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="example-email-input" class="col-form-label">Resim</label>
+                                            <div class="input-group mb-3">
+                                                <div class="custom-file">
+
+                                                    <input type="hidden" asp-for="Image">
+                                                    <input asp-for="Image" type="file" name="file" class="custom-file-input" id="inputGroupFile01">
+                                                    <label asp-for="Image" class="custom-file-label" for="inputGroupFile01">Gözat</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label asp-for="Url" for="example-url-input" class="col-form-label">URL</label>
+                                            <div class="input-group mb-3">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" id="basic-addon3">https://halichub.com.tr/</span>
+                                                </div>
+                                                <input asp-for="Url" type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+                                            </div>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary mt-4 pr-4 pl-4">Kaydet</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- main content area end -->
+    <!-- footer area start-->
+    <footer>
+        <div class="footer-area">
+            <p>© Copyright 2020. Tüm hakları saklıdır. | <a href="http://www.halic.edu.tr/tr" target="_blank"> Haliç Üniversitesi</a>.</p>
+        </div>
+    </footer>
+    <!-- footer area end-->
+</div>
+<!-- page container area end -->
+<!-- offset area start -->
+

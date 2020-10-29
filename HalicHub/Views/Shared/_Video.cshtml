@@ -1,0 +1,15 @@
+﻿@model Video
+
+<div class="col-lg-6 col-md-6 col-sm-6 mix branding">
+    <div class="portfolio__item">
+        <div style="border-radius: 15px" class="portfolio__item__video set-bg video-sz" data-setbg="/img/@Model.Image">
+            <button type="button" class="video-btn play-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/@Model.Url" data-target="#myModal">
+                <i class="fa fa-play"></i>
+            </button>
+        </div>
+        <div class="portfolio__item__text">
+            <h4>@Model.Tittle</h4>
+            <span>@Model.Date</span>
+        </div>
+    </div>
+</div>

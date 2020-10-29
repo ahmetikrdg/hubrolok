@@ -1,0 +1,9 @@
+﻿@model CategoryListViewModel
+@foreach (var item in Model.Categories)
+{
+<a asp-controller="Home"
+   asp-action="ArticleList"
+   asp-route-category="@item.Url" class="@(ViewBag.SelectedCategory == item.Url?"active":"") col-lg- box-category">
+    <img style="display: block; margin: auto; margin-bottom: 10px;" src="~/img/@item.Image">
+    @item.Tittle
+</a>}

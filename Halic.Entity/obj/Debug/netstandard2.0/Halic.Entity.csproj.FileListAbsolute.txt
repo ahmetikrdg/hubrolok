@@ -1,0 +1,108 @@
+C:\HalicHub\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\HalicHub\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\HalicHub\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\kilit\15.10\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\Ahmet\Desktop\kilit\15.10\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\kilit\15.10\halichub05.10.20-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\kilit\15.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\kilit\15.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\kilit\15.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\kilit\15.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\kilit\15.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\kilit\15.10\halichub05.10.20-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.deps.json
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Entity\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csprojAssemblyReference.cache
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.AssemblyInfo.cs
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Entity\obj\Debug\netstandard2.0\Halic.Entity.pdb

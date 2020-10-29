@@ -1,0 +1,13 @@
+﻿@model Slider
+
+<div class="item">
+    <div class="post_s_item">
+        <div class="post_img">
+            <img src="~/img/@Model.Image" alt="">
+        </div>
+        <div class="post_text">
+            <a href="@Model.Url"><h4>@Model.Tittle</h4></a>
+            <p style="margin: 0px">@Html.Raw(Model.Description)</p>
+        </div>
+    </div>
+</div>

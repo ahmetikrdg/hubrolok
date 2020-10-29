@@ -1,0 +1,57 @@
+﻿@model AuthorDetailModel
+@await Html.PartialAsync("_Header")
+<section style="padding-bottom: 0px ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 author-img" style="text-align:center">
+                <img style="border-radius: 200px;" src="~/img/@Model.Authors.Image">
+            </div>
+            <div class="col-lg-8 author-dtl" style="margin-top: 30px;">
+                <div>
+                    <h3 style="font-weight: 700;"><a href="#">@Model.Authors.NameSurname</a></h3>
+                    <div class="color-div">
+                        <div class="color-blue" style="background-color:#2167B0;height:0.5rem;"></div>
+                        <div class="color-orange" style="background-color:#ED6425;height:0.5rem;"></div>
+                        <div class="color-pink" style="background-color:#DE2763;height:0.5rem;"></div>
+                    </div>
+                    <br>
+                    <h3 style="font-weight: 700; font-size: 15px">@Model.Authors.Description</h3>
+                    <p>@Html.Raw(Model.Authors.Content)</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<div class="listing-area pt-120 pb-120">
+    <div class="container">
+        <h3 style="font-weight: 700; border-bottom: solid black 1px; margin-bottom: 50px"><a href="#">Yazara ait yazılar</a></h3>
+        <div class="row">
+            <div class="col-xl-12 col-md-6 box-yn">
+                <div class="popular-directorya-area fix">
+                    <div class="row">
+                        @foreach (var item in Model.News)
+                        {
+            <div class="col-lg-4 box-yn-1">
+                @await Html.PartialAsync("_News", item)
+            </div>}
+                        @foreach (var item in Model.Articles)
+                        {
+            <div class="col-lg-4 box-yn-1">
+                @await Html.PartialAsync("_Article", item)
+            </div>}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8 tab-wrap">
+            <div class="tab-content" id="v-pills-tabContent">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@await Html.PartialAsync("_Footer")

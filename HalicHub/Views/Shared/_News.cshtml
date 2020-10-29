@@ -1,0 +1,13 @@
+﻿@model News
+
+<div class="properties pb-20">
+    <div class="properties__card">
+        <div class="properties__img overlay1">
+            <a style="display: block" asp-controller="home" asp-action="NewsDetails" asp-route-url="@Model.Url"><img src="~/img/@Model.Image" alt=""></a>
+        </div>
+        <div class="properties__caption">
+            <h3 style="font-weight: 700"><a asp-controller="home" asp-action="NewsDetails" asp-route-url="@Model.Url">@Model.Title</a></h3>
+            <p> @Model.Description</p>
+        </div>
+    </div>
+</div>

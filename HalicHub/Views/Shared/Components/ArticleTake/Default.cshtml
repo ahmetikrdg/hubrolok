@@ -1,0 +1,17 @@
+﻿@model ArticleListViewModel
+
+
+@foreach (var item in Model.Articles)
+{
+<div class="col-lg-12 speaker-wrap ftco-animate d-flex lg-mobil">
+    <div class="row">
+        <div style="text-align: center" class="col-lg-4 article-width">
+            <img src="~/img/@item.Image">
+        </div>
+        <div style="margin: auto" class="col-lg-8 article-width">
+            <h2><a class="font-sz" style="font-weight: 700" asp-controller="home" asp-action="ArticleDetails" asp-route-url="@item.Url">@item.Title</a></h2>
+            <p class="font-p-sz">@item.Description</p>
+            <h3 style="font-weight: 700" class="speaker-name font-sz">&mdash; <a href="#">@item.ArticleAuthors</a></h3>
+        </div>
+    </div>
+</div>}

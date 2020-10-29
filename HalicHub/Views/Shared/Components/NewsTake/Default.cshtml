@@ -1,0 +1,20 @@
+﻿@model NewsListViewModel
+<section style="margin-top: 50px; margin-bottom: 100px">
+    <div class="popular-directorya-area  border-bottom section-padding40 fix">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-tittle text-center mb-80">
+                        <h2>Son Haberler</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="directory-active">
+                @foreach (var item in Model.News)
+                {
+    @await Html.PartialAsync("_News", item)}
+
+            </div>
+        </div>
+    </div>
+</section>

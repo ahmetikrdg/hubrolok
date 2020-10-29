@@ -1,0 +1,127 @@
+﻿@await Html.PartialAsync("_Header")
+<section class="blog_area p_120 single-post-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="main_blog_details">
+                    <img class="img-fluid" src="/img/@Model.News.Image" alt="">
+                    <a href="#"><h4>@Model.News.Title</h4></a>
+                    <div class="user_details">
+
+                        @foreach (var item in Model.Categories)
+                        {
+            <a style="background-color:#fff !important; padding:5px 15px 5px 15px;  color:black !important" asp-controller="Home" asp-action="NewsList" asp-route-categories="@item.Url">@item.Tittle</a>}
+                        <div class="float-right">
+                            <div class="media">
+                                <div class="media-body">
+                                    @foreach (var item in Model.Authors)
+                                    {
+                        <h5>@item.NameSurname</h5>}
+                                    <p>@Model.News.Date</p>
+                                </div>
+                                <div class="d-flex">
+                                    <img src="img/blog2/user-img.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <p>@Html.Raw(Model.News.Content)</p>
+                </div>
+                <div style="margin-top: 20px" class="sharethis-inline-share-buttons"></div>
+            </div>
+            <div class="col-lg-4">
+                <div class="blog_right_sidebar">
+                    @foreach (var item in Model.Authors)
+                    {
+                <aside class="single_sidebar_widget author_widget">
+                    <img class="author_img rounded-circle" src="~/img/@item.Image" alt="">
+                    <h4><a asp-controller="Home" asp-action="AuthorDetails" asp-route-author="@item.Url">@item.NameSurname</a></h4>
+                    <p>@item.Description</p>
+                    <div class="br"></div>
+                </aside>}
+                    <aside class="single_sidebar_widget popular_post_widget">
+                        <h3 class="widget_title">İlgili Yazılar</h3>
+
+                        @foreach (var newses in (List<News>)ViewBag.NewsInfo)
+                        {
+                            if (newses.Url != Model.News.Url)
+                            {
+                <div class="row" style="margin-bottom: 15px">
+                    <div class="col-lg-4" style="padding: 0px">
+                        <img src="/img/@newses.Image" alt="post">
+                    </div>
+                    <div class="col-lg-8" style="padding: 0px 0px 0px 5px">
+                        <a asp-controller="home" asp-action="NewsDetails" asp-route-url="@newses.Url"><h3 style="font-size:14px">@newses.Title</h3></a>
+                    </div>
+                </div>}
+        }
+                        <div class="br"></div>
+                    </aside>
+                    <aside class="single_sidebar_widget">
+                        <h4 class="widget_title">E-Bülten Aboneliği</h4>
+                        <div class="form-group">
+                            <form asp-controller="Admin" asp-action="NewsEmail">
+                                <input class="form-control" name="Name" style="width: 100%; margin-bottom: 20px; border-radius: 0px;" type="text" placeholder="Ad">
+                                <input class="form-control" name="Surname" style="width: 100%; margin-bottom: 20px; border-radius: 0px;" type="text" placeholder="Soyad">
+                                <input class="form-control" name="Email" style="width: 100%; margin-bottom: 20px; border-radius: 0px;" type="email" placeholder="Email">
+                                <button type="submit" style=" background: #140C40; color: white; padding: 10px 5px 10px 5px; width: 100%;">ABONE OL</button>
+                            </form>
+                        </div>
+
+                    </aside>
+                    @await Component.InvokeAsync("NewsInCategories")
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@****************************************@
+@*<div class="container">
+    <div class="row">
+        <div class="col-lg-10 m-auto">
+            <div class="contact-form">
+                <form asp-controller="Admin" asp-action="NewsEmail">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="name-input">
+                                <input type="text" name="Name" required placeholder="Ad">
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="email-input">
+                                <input type="text" name="Surname" required placeholder="Soyadı">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="website-input">
+                                <input type="email" name="Email" required placeholder="Email">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-submit">
+                        <button type="submit">ABONE OL</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>*@
+@****************************************@
+
+<div id="back" class="mb-2 text-center">
+    @if (ViewBag.Succes != null)
+    {
+<div class="alert alert-primary" role="alert">
+    @ViewBag.Succes
+</div>
+                <h5 class="text-success">@ViewBag.Succes</h5>}
+    @if (ViewBag.Error != null)
+    {
+<h5 class="text-danger">@ViewBag.Error</h5>}
+</div>
+
+@await Html.PartialAsync("_Footer")

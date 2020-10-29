@@ -1,0 +1,49 @@
+﻿<footer style="background-color: #001d38; padding: 100px">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="footer__address">
+                    <ul>
+                        <li>
+                            <i class="fa fa-phone"></i>
+                            <p>Telefon</p>
+                            <h6>(0212) 924 2444</h6>
+                        </li>
+                        <li>
+                            <i class="fa fa-envelope"></i>
+                            <p>Email</p>
+                            <h6>info@halic.edu.tr</h6>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-4 offset-lg-1 col-md-6">
+                <div class="footer__social">
+                    <h2>BİZİ TAKİP EDİN!</h2>
+                    <div class="footer__social__links">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 offset-lg-1 col-md-6">
+                <div class="footer__newslatter">
+                    <h4>E-BÜLTEN</h4>
+                    <form asp-controller="Admin" asp-action="Email">
+                        <input name="NameSurname" type="text" placeholder="Ad Soyad">
+                        <input name="Email" type="text" placeholder="Email">
+
+                        <button type="submit"><i class="fa fa-send-o"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="footer__copyright__text">
+            <p style="color: white">
+                Copyright &copy;
+                <script>document.write(new Date().getFullYear());</script> 2020 Tüm hakları saklıdır. İzin almadan kullanılamaz. | Haliç Üniversitesi
+            </p>
+        </div>
+    </div>
+</footer>

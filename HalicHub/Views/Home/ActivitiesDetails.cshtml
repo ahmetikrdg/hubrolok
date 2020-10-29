@@ -1,0 +1,12 @@
+﻿@model ActivitiesDetailsModel
+
+<div class="card" style="width: 18rem;">
+    <img src="~/img/@Model.activities.Image" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@Model.activities.Tittle</h5>
+        <p class="card-text">@Model.activities.Description</p>
+        <hr /><br />
+        <p class="card-text">@Html.Raw(Model.activities.Content)</p>
+        <a href="/" class="btn btn-primary">Anasayfaya dön</a>
+    </div>
+</div>

@@ -1,0 +1,20 @@
+﻿@model AuthorListViewModel
+@await Html.PartialAsync("_Header")
+<partial name="_AuthorSearch">
+    <div class="listing-area pt-120 pb-120">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-8 col-md-6">
+                    <div class="popular-directorya-area fix">
+                        <div class="row">
+                            @foreach (var item in Model.Authors)
+                            {
+                    @await Html.PartialAsync("_Author", item)
+                }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @await Html.PartialAsync("_Footer")

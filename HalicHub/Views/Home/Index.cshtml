@@ -1,0 +1,32 @@
+﻿@await Html.PartialAsync("_Header")
+@await Component.InvokeAsync("Slider")
+<section class="ftco-section bg-light" id="schedule-section">
+    <div class="container">
+        <div class="row justify-content-center pb-5">
+            <div class="col-md-12 heading-section text-center ftco-animate">
+                <h2 class="mb-4">Son Ekleneler</h2>
+            </div>
+        </div>
+        <div class="ftco-schedule">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="row">
+                        @await Html.PartialAsync("_IndexCategory")
+                    </div>
+                </div>
+                <div class="col-lg-8 tab-wrap">
+                    <div class="tab-content" id="v-pills-tabContent">
+                        @await Component.InvokeAsync("ArticleTake")
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@await Component.InvokeAsync("Activities")
+@await Component.InvokeAsync("NewsTake")
+@await Component.InvokeAsync("VideoIndex")
+@await Html.PartialAsync("_Footer")
+
+
+

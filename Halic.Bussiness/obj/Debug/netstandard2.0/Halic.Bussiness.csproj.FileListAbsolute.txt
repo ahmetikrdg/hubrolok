@@ -1,0 +1,154 @@
+C:\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Desktop\guncelyedek\guncelsabah\HalicHub\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\muhammetkaya\Desktop\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\muhammetkaya\Desktop\MKAYA\sonhub-master\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Downloads\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Desktop\kilit\Yeni klasör gece\halichub05.10.20-main\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Desktop\kilit\12.10\halichub05.10.20-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\muhammetkaya\Desktop\Hub Versions\sn-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Downloads\hub19-main\hub19-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\muhammetkaya\Desktop\githubnews-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.deps.json
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Bussiness.pdb
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.dll
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.dll
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Data.pdb
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\bin\Debug\netstandard2.0\Halic.Entity.pdb
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csprojAssemblyReference.cache
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.AssemblyInfo.cs
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.csproj.CopyComplete
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.dll
+C:\Users\Ahmet\Downloads\HalicHub-main\HalicHub-main\Halic.Bussiness\obj\Debug\netstandard2.0\Halic.Bussiness.pdb

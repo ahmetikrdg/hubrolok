@@ -1,0 +1,22 @@
+﻿@model ArticleListViewModel
+@await Html.PartialAsync("_Header")
+<partial name="_Search">
+    <div class="listing-area pt-120 pb-120">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-md-6 box-yn">
+                    <div class="popular-directorya-area fix">
+                        <div class="row">
+                            @foreach (var item in Model.Articles)
+                            {
+                <div class="col-lg-4 box-yn-1">
+                    @await Html.PartialAsync("_Article", item)
+                </div>}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @await Html.PartialAsync("_Footer")
+

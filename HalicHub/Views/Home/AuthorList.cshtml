@@ -1,0 +1,14 @@
+﻿@model AuthorListViewModel
+@await Html.PartialAsync("_Header")
+<partial name="_AuthorSearch">
+    <section class="team spad set-bg">
+        <div class="container">
+            <div class="row">
+                @foreach (var item in Model.Authors)
+                {
+
+    @await Html.PartialAsync("_Author", item)}
+            </div>
+        </div>
+    </section>
+    @await Html.PartialAsync("_Footer")

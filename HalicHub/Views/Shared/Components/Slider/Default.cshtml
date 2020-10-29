@@ -1,0 +1,9 @@
+﻿@model SliderListViewModel
+
+<section class="post_slider_area" style="padding: 0px">
+    <div class="post_slider_inner owl-carousel">
+        @foreach (var item in Model.Sliders)
+        {
+            @await Html.PartialAsync("_Slider", item)}
+    </div>
+</section>

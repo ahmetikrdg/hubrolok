@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Halic.Data\Halic.Data.csproj" />
+    <ProjectReference Include="..\Halic.Entity\Halic.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

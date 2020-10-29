@@ -1,0 +1,17 @@
+﻿@model Video
+
+<div class="col-lg-3">
+    <div class="videos__item">
+        <div class="videos__item__pic set-bg" data-setbg="/img/@Model.Image">
+            <button type="button" class="video-btn play-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/IP7uGKgJL8U" data-target="#myModal">
+                <i class="fa fa-play"></i>
+            </button>
+        </div>
+        <div class="videos__item__text">
+            <h5>@Model.Tittle</h5>
+            <ul>
+                <li>@Model.Date</li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,21 @@
+﻿@model VideoListViewModel
+
+
+
+@foreach (var item in Model.Videos)
+{
+<div class="videos__large__item set-bg" data-setbg="/img/@item.Image">
+    <button type="button" class="video-btn play-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/@item.Url" data-target="#myModal">
+        <i class="fa fa-play"></i>
+        </button>
+        <div class="videos__large__item__text">
+            <h4>
+                @item.Tittle
+            </h4>
+            <ul>
+                <li>@item.Date</li>
+            </ul>
+        </div>
+</div>
+}
+

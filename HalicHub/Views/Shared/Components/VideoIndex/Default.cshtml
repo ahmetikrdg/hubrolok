@@ -1,0 +1,9 @@
+﻿@model VideoListViewModel
+
+
+
+@foreach (var item in Model.Videos)
+{
+@await Html.PartialAsync("_Video", item)
+}
+

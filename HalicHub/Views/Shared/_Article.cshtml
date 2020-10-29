@@ -1,0 +1,18 @@
+﻿@model Article
+
+<div class="properties pb-20">
+    <div class="properties__card">
+        <div class="properties__img overlay1">
+            <a asp-controller="home" asp-action="ArticleDetails" asp-route-url="@Model.Url"><img src="~/img/@Model.Image" alt=""></a>
+            @*<div class="icon">
+                            @foreach (var item in Model.ArticleCategories)
+                            {
+                <h3 style="font-size: 1em; padding: 5px; background: #07233d; color: white; border-radius: 8px">@item.Categories.Name</h3>}
+                        </div>*@
+        </div>
+        <div class="properties__caption">
+            <h3 style="font-weight: 700"><a asp-controller="home" asp-action="ArticleDetails" asp-route-url="@Model.Url">@Model.Title</a></h3>
+            <p> @Model.Description</p>
+        </div>
+    </div>
+</div>

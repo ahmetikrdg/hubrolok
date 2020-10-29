@@ -1,0 +1,17 @@
+﻿@model List<NCategory>
+
+<aside class="single_sidebar_widget post_category_widget">
+    <h4 class="widget_title">Kategoriler</h4>
+    @foreach (var item in Model)
+    {
+        <ul class="list cat-list">
+            <li style="display: block;">
+                <a asp-controller="Home"
+                   asp-action="NewsList"
+                   asp-route-categories="@item.Url" class="@(ViewBag.SelectedCategory == item.Url?"active":"")"> @item.Tittle</a>
+            </li>
+        </ul>
+    }
+
+    <div class="br"></div>
+</aside>

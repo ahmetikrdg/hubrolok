@@ -1,0 +1,68 @@
+﻿
+<!DOCTYPE html>
+<html class="no-js" lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="~/admin-assets/images/icon/favicon.ico">
+    <link href="~/admin-assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/admin-assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/admin-assets/css/themify-icons.css" rel="stylesheet" />
+    <link href="~/admin-assets/css/metisMenu.css" rel="stylesheet" />
+    <link href="~/admin-assets/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/admin-assets/css/slicknav.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.18/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.jqueryui.min.css">
+    <link href="~/admin-assets/css/typography.css" rel="stylesheet" />
+    <link href="~/admin-assets/css/default-css.css" rel="stylesheet" />
+    <link href="~/admin-assets/css/styles.css" rel="stylesheet" />
+    <link href="~/admin-assets/css/responsive.css" rel="stylesheet" />
+    <script src="~/admin-assets/js/vendor/modernizr-2.8.3.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"
+          integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz"
+          crossorigin="anonymous">
+
+</head>
+<body>
+
+    @RenderBody()
+
+    <script src="~/admin-assets/js/vendor/jquery-2.2.4.min.js"></script>
+    <script src="~/admin-assets/js/popper.min.js"></script>
+    <script src="~/admin-assets/js/bootstrap.min.js"></script>
+    <script src="~/admin-assets/js/owl.carousel.min.js"></script>
+    <script src="~/admin-assets/js/metisMenu.min.js"></script>
+    <script src="~/admin-assets/js/jquery.slimscroll.min.js"></script>
+    <script src="~/admin-assets/js/jquery.slicknav.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+    <script src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.18/js/dataTables.bootstrap4.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap.min.js"></script>
+    <script src="~/admin-assets/js/plugins.js"></script>
+    <script src="~/admin-assets/js/scripts.js"></script>
+
+    @RenderSection("PageScripts", false)
+    @*@RenderSection("PanelScripts", false)
+    @RenderSection("Scripts", false)*@
+
+</body>
+</html>
+@*<div class="container">
+        <main role="main" class="pb-3">
+            <div class="container">
+                @if (TempData["Message"] != null)// ne zamanki mesaj bilgisi boş değilse gelsin
+                {
+                    var message = JsonConvert.DeserializeObject<AlertMessage>(TempData["message"] as String);//gelen datayı stringe çevirip deserilazobjeye gönderiyoruz
+
+                <partial name="_ResultMessage" model="@(TempData.Get<AlertMessage>("message"))" />
+                }
+                @RenderBody()
+            </div>
+        </main>
+    </div>*@

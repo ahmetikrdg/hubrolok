@@ -1,0 +1,51 @@
+﻿<div class="sidebar-menu">
+    <div class="sidebar-header">
+        <!--<div class="logo">-->
+        <div>
+            <a href="anasayfa.html"><h1 style="color: white">Haliç HUB</h1></a>
+        </div>
+    </div>
+    <div class="main-menu">
+        <div class="menu-inner">
+            <nav>
+                <ul class="metismenu" id="menu">
+                    <li>
+                        <a href="javascript:void(0)" aria-expanded="true"><i class="ti-dashboard"></i><span>Dashboard</span></a>
+                        <ul class="collapse">
+                            <li><a href="anasayfa.html">Sol Menü</a></li>
+                            <li><a href="anasayfa-2.html">Yatay Menü</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li><a asp-controller="admin" asp-action="ArticleListAdmin"><i class="ti-book"></i> <span>Makaleler</span></a></li>
+                    <li><a asp-controller="admin" asp-action="NewsListAdmin"><i class="ti-receipt"></i> <span>Haberler</span></a></li>
+                   @if (User.IsInRole("admin") || User.IsInRole("server"))
+                   {
+                    <li><a asp-controller="admin" asp-action="ActivitiesListAdmin"><i class="ti-world"></i> <span>Etkinlikler</span></a></li>
+                    <li><a asp-controller="admin" asp-action="VideoListAdmin"><i class="ti-video-clapper"></i> <span>Videolar</span></a></li>
+                    <li><a asp-controller="admin" asp-action="SliderListAdmin"><i class="ti-layers-alt"></i> <span>Slider</span></a></li>
+                    <li><a asp-controller="admin" asp-action="AuthorListAdmin"><i class="ti-slice"></i> <span>Yazarlar</span></a></li>
+                    <li><a asp-controller="admin" asp-action="EMailList"><i class="ti-slice"></i> <span>EMail</span></a></li>
+                   }
+                    @if (User.IsInRole("server"))
+                    {
+                         <li><a asp-controller="Role" asp-action="RoleList"><i class="ti-slice"></i> <span>Roller</span></a></li>
+                         <li><a asp-controller="Role" asp-action="UserList"><i class="ti-slice"></i> <span>Kullanıcılar</span></a></li>
+                    }
+                         <li><a asp-controller="Account" asp-action="Logout"><i class="ti-slice"></i> <span>Çıkış Yap</span></a></li>
+
+                     @if (User.IsInRole("admin") || User.IsInRole("server"))
+                     {
+                    <li>
+                        <a href="javascript:void(0)" aria-expanded="true"><i class="ti-dashboard"></i><span>Kategoriler</span></a>
+                        <ul class="collapse">
+                            <li><a asp-controller="admin" asp-action="ArticleCategoryListAdmin">Makale Kategorileri</a></li>
+                            <li><a asp-controller="admin" asp-action="NewsCategoryListAdmin">Haber Kategorileri</a></li>
+                        </ul>
+                    </li>
+                     }
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
